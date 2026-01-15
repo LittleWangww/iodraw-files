@@ -196,7 +196,7 @@
         <mxCell id="vfXjHNN89tjL2AgiQiCi-14" value="调控靶基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.5" y="448" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-16" value="shMETTL2B 检测 tRNA&lt;sup&gt;Arg/Thr&lt;/sup&gt; m&lt;sup&gt;3&lt;/sup&gt;C修饰水平" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-16" value="shMETTL2B 细胞中检测 tRNA&lt;sup&gt;Arg/Thr&lt;/sup&gt; m&lt;sup&gt;3&lt;/sup&gt;C修饰水平" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="484" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-17" value="shMETTL2B" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
