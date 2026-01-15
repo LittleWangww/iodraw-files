@@ -135,8 +135,8 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-73" value="上游结合转录因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441.5" y="370" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-74" value="METTL2B与TWIST1表达相关性" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="321" y="547.5" width="239" height="50" as="geometry" />
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-74" value="METTL2B与TWIST1表达相关性" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="321" y="547.5" width="239" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-62" value="调控靶基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="321" y="370" width="120" height="36" as="geometry" />
@@ -148,6 +148,9 @@
           <mxGeometry x="441.5" y="406" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-71" target="LS7a4WuNv3g6fjOMEO5E-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-76" target="LS7a4WuNv3g6fjOMEO5E-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-76" value="&lt;div&gt;TWIST1-Cut-tag验证结合能力&lt;/div&gt;TWIST1 motif突变双荧光素酶检测结合激活能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
