@@ -217,7 +217,7 @@
             <mxPoint x="438.5" y="709" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-24" value="shMETTL2B细胞中进行配对RNA-seq+Ribo-seq锚定翻译效率发生显著变化基因" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-24" value="双荧光素酶验证翻译对稀有密码子的依赖性" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580.5" y="560" width="239.5" height="42" as="geometry" />
         </mxCell>
       </root>
