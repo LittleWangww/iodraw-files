@@ -130,7 +130,7 @@
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-59" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="210" width="120" height="230" as="geometry" />
+          <mxGeometry x="720" y="400" width="120" height="230" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-60" value="METTL2B与TWIST1表达相关性" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-59">
           <mxGeometry y="130" width="120" height="50" as="geometry" />
