@@ -34,6 +34,9 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-6" value="高危NB肿瘤细胞类群中特异性表达的TE型增强子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="55" y="410" width="285" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-10" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="320" width="200" height="200" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
