@@ -48,16 +48,16 @@
           <mxGeometry x="120" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-36" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="501" width="130" height="96" as="geometry" />
+          <mxGeometry x="55" y="501" width="120" height="96" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-29" value="Target NBL 队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-36">
-          <mxGeometry width="130" height="36" as="geometry" />
+          <mxGeometry width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-30" value="&lt;span style=&quot;&quot;&gt;潜在靶基因表达&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-36">
-          <mxGeometry y="36" width="130" height="30" as="geometry" />
+          <mxGeometry y="36" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-31" value="&lt;span style=&quot;&quot;&gt;靶基因与生存预后&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-36">
-          <mxGeometry y="66" width="130" height="30" as="geometry" />
+          <mxGeometry y="66" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-37" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="501" width="135" height="126" as="geometry" />
