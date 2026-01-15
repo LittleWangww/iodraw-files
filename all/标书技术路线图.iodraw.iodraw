@@ -136,7 +136,7 @@
           <mxGeometry x="441.5" y="370" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-74" value="METTL2B与TWIST1表达相关性" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="490" width="239" height="50" as="geometry" />
+          <mxGeometry x="510" y="600" width="239" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-61" value="&lt;span style=&quot;&quot;&gt;IHC检测肿瘤组织中糖脂代谢标志基因表达&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="321" y="550" width="120" height="50" as="geometry" />
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-76" value="motif突变双荧光素酶检测" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="440" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-77" value="motif突变双荧光素酶检测" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="451" y="450" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
