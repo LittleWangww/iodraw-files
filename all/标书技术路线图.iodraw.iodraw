@@ -98,7 +98,7 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;CRISPR-dCas9-KRAB&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;靶向抑制&lt;font face=&quot;Times New Roman&quot;&gt;AluSx4-Enh₁₇&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="453" y="197" width="107" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-51" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;METTL2B功能与机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-51" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;METTL2B功能与机制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="580" y="142" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-47" value="细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -146,49 +146,49 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-76" value="&lt;div&gt;TWIST1-Cut-tag验证结合能力&lt;/div&gt;TWIST1 motif突变双荧光素酶检测结合激活能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="439.75" y="518" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达及敲低细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达及敲低细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="197" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-2" target="vfXjHNN89tjL2AgiQiCi-3">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-2" target="vfXjHNN89tjL2AgiQiCi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-2" target="vfXjHNN89tjL2AgiQiCi-7">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-2" target="vfXjHNN89tjL2AgiQiCi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-2" value="靶向抑制&lt;font face=&quot;Times New Roman&quot;&gt;AluSx4-Enh₁₇+&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-2" value="靶向抑制&lt;font face=&quot;Times New Roman&quot;&gt;AluSx4-Enh₁₇+&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="197" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-3" value="细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-3" value="细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="282" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-4" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-4" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="318" width="120" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-5" value="细胞增殖、凋亡、迁移和侵袭能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-4">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-5" value="细胞增殖、凋亡、迁移和侵袭能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-4">
           <mxGeometry width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-6" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-4">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-6" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-4">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-7" value="动物功能实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-7" value="动物功能实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="282" width="120" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-8" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-8" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="318" width="120" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-9" value="裸鼠移植瘤模型，观察肿瘤生长及转移" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-8">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-9" value="裸鼠移植瘤模型，观察肿瘤生长及转移" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-8">
           <mxGeometry width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-10" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-8">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-10" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-8">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-14" value="METTL2B影响蛋白翻译的机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-14" value="METTL2B影响蛋白翻译的机制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.5" y="448" width="240.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-16" value="shMETTL2B细胞中检测 tRNA&lt;sup&gt;Arg/Thr&lt;/sup&gt; m&lt;sup&gt;3&lt;/sup&gt;C修饰水平" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-16" value="shMETTL2B细胞中检测 tRNA&lt;sup&gt;Arg/Thr&lt;/sup&gt; m&lt;sup&gt;3&lt;/sup&gt;C修饰水平" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="484" width="240" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-17" value="shMETTL2B细胞中进行配对RNA-seq+Ribo-seq锚定翻译效率发生显著变化基因" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-17" value="shMETTL2B细胞中进行配对RNA-seq+Ribo-seq锚定翻译效率发生显著变化基因" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="536" width="239.5" height="54" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;高危神经母细胞瘤预后不良，调控肿瘤代谢的关键性非编码调控元件是谁？&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;具有怎样的功能？具体机制是什么？有没有潜在临床应用价值？&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -206,10 +206,10 @@
             <mxPoint x="438.5" y="697" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-24" value="双荧光素酶验证翻译对稀有密码子的依赖性" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-24" value="双荧光素酶验证翻译对稀有密码子的依赖性" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580.5" y="590" width="239.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-10" target="vfXjHNN89tjL2AgiQiCi-14">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-10" target="vfXjHNN89tjL2AgiQiCi-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-35" target="LS7a4WuNv3g6fjOMEO5E-26">
