@@ -109,7 +109,7 @@
           <mxGeometry width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-48" value="细胞增殖、凋亡、迁移和侵袭能力" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-46">
-          <mxGeometry y="36" width="120" height="30" as="geometry" />
+          <mxGeometry y="36" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-49" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-46">
           <mxGeometry y="66" width="120" height="54" as="geometry" />
