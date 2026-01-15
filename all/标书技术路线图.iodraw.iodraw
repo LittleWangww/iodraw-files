@@ -144,10 +144,10 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-63" value="" style="group" vertex="1" connectable="0" parent="LS7a4WuNv3g6fjOMEO5E-59">
           <mxGeometry y="36" width="120" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-64" value="下游靶基因METTL2B的表达" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-63">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-64" value="调控靶基因METTL2B的表达" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-63">
           <mxGeometry width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-65" value="&lt;span style=&quot;&quot;&gt;上游转录因子TWIST1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-63">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-65" value="&lt;span style=&quot;&quot;&gt;上游转录因子分析预测（&lt;/span&gt;TWIST1&lt;span style=&quot;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-63">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
