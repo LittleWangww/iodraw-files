@@ -82,6 +82,9 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-31" target="LS7a4WuNv3g6fjOMEO5E-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-40" value="高危NB进展相关调控因子" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="80" width="290" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
