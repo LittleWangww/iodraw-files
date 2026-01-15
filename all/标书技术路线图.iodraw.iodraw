@@ -190,7 +190,7 @@
         <mxCell id="vfXjHNN89tjL2AgiQiCi-10" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-8">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-14" value="调控靶基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-14" value="METTL2B对蛋白翻译的影响" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.5" y="448" width="240.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-16" value="shMETTL2B细胞中检测 tRNA&lt;sup&gt;Arg/Thr&lt;/sup&gt; m&lt;sup&gt;3&lt;/sup&gt;C修饰水平" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
