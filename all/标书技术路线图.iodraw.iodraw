@@ -127,7 +127,7 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-70" value="裸鼠移植瘤模型，观察肿瘤生长及转移" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-69" vertex="1">
           <mxGeometry width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-71" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-69" vertex="1">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-71" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-69" vertex="1">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-73" value="上游结合转录因子" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
