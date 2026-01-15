@@ -60,19 +60,19 @@
           <mxGeometry y="66" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-37" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="205" y="501" width="160" height="126" as="geometry" />
+          <mxGeometry x="205" y="501" width="135" height="126" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-32" value="TE增强子功能激活特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-37">
-          <mxGeometry width="160" height="36" as="geometry" />
+          <mxGeometry width="135" height="36" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-33" value="低甲基化" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-37">
-          <mxGeometry y="36" width="160" height="30" as="geometry" />
+          <mxGeometry y="36" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-34" value="高染色质可及性" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-37">
-          <mxGeometry y="66" width="160" height="30" as="geometry" />
+          <mxGeometry y="66" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-35" value="高H3K27ac组蛋白修饰" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-37">
-          <mxGeometry y="96" width="160" height="30" as="geometry" />
+          <mxGeometry y="96" width="135" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
