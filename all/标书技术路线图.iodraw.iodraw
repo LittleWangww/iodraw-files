@@ -115,7 +115,7 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-48" value="细胞增殖、凋亡、迁移和侵袭能力" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-57" vertex="1">
           <mxGeometry width="120" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-49" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-57" vertex="1">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-49" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-57" vertex="1">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-68" value="动物功能实验" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -124,7 +124,7 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-69" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="439.75" y="318" width="120" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-70" value="裸鼠移植瘤模型，观察肿瘤生长及转移" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-69" vertex="1">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-70" value="裸鼠移植瘤模型，观察肿瘤生长及转移" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-69" vertex="1">
           <mxGeometry width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-71" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" parent="LS7a4WuNv3g6fjOMEO5E-69" vertex="1">
