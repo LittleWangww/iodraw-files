@@ -157,6 +157,9 @@
         <mxCell id="vfXjHNN89tjL2AgiQiCi-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达及敲低细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="125" width="120" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vfXjHNN89tjL2AgiQiCi-2" target="vfXjHNN89tjL2AgiQiCi-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-2" value="靶向抑制&lt;font face=&quot;Times New Roman&quot;&gt;AluSx4-Enh₁₇+&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="125" width="120" height="45" as="geometry" />
         </mxCell>
