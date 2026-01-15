@@ -156,7 +156,7 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-76" value="TWIST1 motif突变双荧光素酶检测" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="440" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-77" value="motif突变双荧光素酶检测" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-77" value="TWIST1-Cut-tag" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="474" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
