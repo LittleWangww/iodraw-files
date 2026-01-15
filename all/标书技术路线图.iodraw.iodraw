@@ -190,9 +190,6 @@
         <mxCell id="vfXjHNN89tjL2AgiQiCi-10" value="IHC检测肿瘤组织中糖脂代谢标志基因表达" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="vfXjHNN89tjL2AgiQiCi-8">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-13" value="上游结合转录因子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="448" width="120" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-14" value="调控靶基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="579.5" y="448" width="120" height="36" as="geometry" />
         </mxCell>
