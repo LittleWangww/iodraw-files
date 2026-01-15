@@ -126,9 +126,6 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-65" value="&lt;span style=&quot;&quot;&gt;上游转录因子分析预测（&lt;/span&gt;TWIST1&lt;span style=&quot;&quot;&gt;）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-63">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-56" value="&lt;span style=&quot;&quot;&gt;IHC检测肿瘤组织中糖脂代谢标志基因表达&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="292" width="120" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-47" value="细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="210" width="120" height="36" as="geometry" />
         </mxCell>
@@ -141,14 +138,11 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-49" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-57">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-67" value="细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="220" width="120" height="36" as="geometry" />
-        </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-68" value="动物功能实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="370" width="120" height="36" as="geometry" />
+          <mxGeometry x="440" y="210" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-69" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="406" width="120" height="94" as="geometry" />
+          <mxGeometry x="440" y="246" width="120" height="94" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-70" value="裸鼠移植瘤模型，观察肿瘤生长及转移" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-69">
           <mxGeometry width="120" height="44" as="geometry" />
