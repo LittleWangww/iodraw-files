@@ -97,8 +97,14 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-44" target="LS7a4WuNv3g6fjOMEO5E-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-44" target="LS7a4WuNv3g6fjOMEO5E-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="LS7a4WuNv3g6fjOMEO5E-44" target="LS7a4WuNv3g6fjOMEO5E-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="170" />
+              <mxPoint x="433" y="185" />
+              <mxPoint x="373" y="185" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-44" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;CRISPR-dCas9-KRAB&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;靶向抑制&lt;font face=&quot;Times New Roman&quot;&gt;AluSx4-Enh₁₇&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="453" y="125" width="107" height="45" as="geometry" />
