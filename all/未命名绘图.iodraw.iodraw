@@ -51,6 +51,9 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-17" value="靶基因与生存预后" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="LS7a4WuNv3g6fjOMEO5E-15">
           <mxGeometry y="60" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.567;entryY=1.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LS7a4WuNv3g6fjOMEO5E-15" source="LS7a4WuNv3g6fjOMEO5E-15" target="LS7a4WuNv3g6fjOMEO5E-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-20" value="TE增强子功能激活特征" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="187.5" y="489" width="152.5" height="120" as="geometry" />
         </mxCell>
