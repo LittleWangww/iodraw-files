@@ -113,7 +113,7 @@
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-49" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="LS7a4WuNv3g6fjOMEO5E-57" vertex="1">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LS7a4WuNv3g6fjOMEO5E-68" value="动物功能实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="LS7a4WuNv3g6fjOMEO5E-68" value="&lt;b&gt;动物功能实验&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="439.75" y="282" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="LS7a4WuNv3g6fjOMEO5E-69" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
@@ -158,7 +158,7 @@
         <mxCell id="vfXjHNN89tjL2AgiQiCi-2" value="靶向抑制&lt;font face=&quot;Times New Roman&quot;&gt;AluSx4-Enh₁₇+&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;METTL2B过表达细胞模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="693" y="197" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-3" value="细胞功能实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-3" value="&lt;b&gt;细胞功能实验&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="573" y="282" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-4" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
@@ -170,7 +170,7 @@
         <mxCell id="vfXjHNN89tjL2AgiQiCi-6" value="&lt;span style=&quot;&quot;&gt;糖脂代谢指标（葡萄糖消耗、乳酸生成、油红O染色）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="vfXjHNN89tjL2AgiQiCi-4" vertex="1">
           <mxGeometry y="44" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vfXjHNN89tjL2AgiQiCi-7" value="动物功能实验" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vfXjHNN89tjL2AgiQiCi-7" value="&lt;b&gt;动物功能实验&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="693" y="282" width="120" height="36" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-8" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
