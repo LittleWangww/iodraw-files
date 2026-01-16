@@ -219,10 +219,10 @@
           <mxGeometry x="40" y="758" width="189.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-28" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;AluSx4-Enh₁₇活性定量&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;AluSx4-Enh₁₇与METTL2B表达相关性&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430.5" y="840" width="189.5" height="70" as="geometry" />
+          <mxGeometry x="318" y="758" width="189.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vfXjHNN89tjL2AgiQiCi-29" value="&lt;div&gt;临床预后价值评估&lt;/div&gt;高危分型诊断效能评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="430.5" y="758" width="189.5" height="70" as="geometry" />
+          <mxGeometry x="598.25" y="758" width="189.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
