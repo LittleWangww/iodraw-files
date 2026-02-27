@@ -165,7 +165,7 @@
           </mxStyle>
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-8" value="体外/体内表型靶向挽救&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(代谢酶回补 + 裸鼠皮下成瘤模型)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="60" y="660" width="210" height="50" as="geometry" />
+          <mxGeometry x="190" y="85" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
