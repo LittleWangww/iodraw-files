@@ -32,7 +32,7 @@
           <mxGeometry x="70" y="30" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="title2" value="&lt;b style=&quot;font-size:14px;&quot;&gt;研究内容二：METTL2B 介导的翻译调控机制&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="30" width="300" height="30" as="geometry" />
+          <mxGeometry x="470" y="30" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="title3" value="&lt;b style=&quot;font-size:14px;&quot;&gt;机制影响与功能验证：代谢重塑与临床表型&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="450" width="350" height="30" as="geometry" />
