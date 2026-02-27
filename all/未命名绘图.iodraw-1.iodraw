@@ -204,7 +204,7 @@
           <mxGeometry x="207" y="392.5" width="193" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-36" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;转录因子/临床风险信息相关性&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(HR/LR-NB临床组织样本)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="213" y="322.5" width="193" height="45" as="geometry" />
+          <mxGeometry x="203" y="236" width="193" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
