@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="n0" value="&lt;b style=&quot;font-size:16px;&quot;&gt;多组学鉴定发现：HR-NB 中存在选择性激活的转座元件增强子 AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;H3K27ac↑ / ATAC↑ / DNA低甲基化 / 与 METTL2B 表达显著正相关&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f3eef8;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-15" width="800" height="60" as="geometry" />
+          <mxGeometry x="20" y="-60" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bg1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f9ff;strokeColor=#7898e1;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="380" height="400" as="geometry" />
