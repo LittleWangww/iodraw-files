@@ -37,7 +37,7 @@
         <mxCell id="title3" value="&lt;b style=&quot;font-size:14px;&quot;&gt;机制影响与功能验证：代谢重塑与临床表型&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="450" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n1" value="&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="n1" value="&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;表观活性特征细胞系及组织样本&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="45" y="80" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="n5" value="&lt;b&gt;METTL2B 蛋白高表达&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
