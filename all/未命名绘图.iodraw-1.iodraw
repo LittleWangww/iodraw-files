@@ -119,17 +119,6 @@
             <mxStyle name="strokeColor" value="#444444" />
           </mxStyle>
         </mxCell>
-        <mxCell id="e4" edge="1" parent="1" source="n4" target="n5">
-          <mxGeometry relative="1" as="geometry" />
-          <mxStyle as="style">
-            <mxStyle name="edgeStyle" value="orthogonalEdgeStyle" />
-            <mxStyle name="endArrow" value="classic" />
-            <mxStyle name="html" value="1" />
-            <mxStyle name="rounded" value="0" />
-            <mxStyle name="strokeWidth" value="3" />
-            <mxStyle name="strokeColor" value="#ff3333" />
-          </mxStyle>
-        </mxCell>
         <mxCell id="e5" edge="1" parent="1" source="n5" target="n6">
           <mxGeometry relative="1" as="geometry" />
           <mxStyle as="style">
