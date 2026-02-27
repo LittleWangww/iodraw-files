@@ -38,7 +38,7 @@
           <mxGeometry x="35" y="450" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n1" value="&lt;b&gt;转录因子 TWIST1&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px; font-weight: normal;&quot;&gt;(HR-NB 状态依赖性高表达)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="45" y="80" width="220" height="45" as="geometry" />
+          <mxGeometry x="45" y="80" width="145" height="45" as="geometry" />
         </mxCell>
         <mxCell id="n5" value="&lt;b&gt;METTL2B 蛋白高表达&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="450" y="80" width="220" height="45" as="geometry" />
