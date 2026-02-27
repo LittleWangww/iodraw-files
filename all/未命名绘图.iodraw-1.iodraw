@@ -180,7 +180,7 @@
           <mxGeometry x="39" y="226" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-17" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;表观活性/METTL2B转录与表达变化&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(CRISPR-dCas9-KRAB系统干预&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 10px;&quot;&gt;AluSx4-Enh&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot;&gt;17&lt;/sub&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="203" y="238" width="193" height="45" as="geometry" />
+          <mxGeometry x="203" y="216" width="193" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-19" target="GakFOnl8tx8y4TvosUzH-21">
           <mxGeometry relative="1" as="geometry" />
