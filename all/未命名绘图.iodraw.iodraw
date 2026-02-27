@@ -56,7 +56,7 @@
           <mxGeometry x="690" y="162" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v4" value="翻译效率与功能必要性&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(Ribo-seq, 同义替换实验)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="690" y="304" width="115" height="55" as="geometry" />
+          <mxGeometry x="690" y="324" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="n9" value="&lt;b&gt;靶向代谢酶蛋白翻译上调&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px; font-weight: normal;&quot;&gt;(代表性基因如 ENO3, FADS1, mRNA不变)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="240" height="50" as="geometry" />
