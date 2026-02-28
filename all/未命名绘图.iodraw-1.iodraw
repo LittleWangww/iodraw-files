@@ -162,7 +162,7 @@
           <mxGeometry x="610" y="75.5" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-54" value="特定 tRNA 亚型鉴定" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="614" y="129" width="206" height="45" as="geometry" />
+          <mxGeometry x="820" y="75.5" width="206" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
