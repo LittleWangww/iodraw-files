@@ -178,7 +178,7 @@
         <mxCell id="Y0CES-mEReYJAXcTUCbc-116" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.34;dx=34.8;notch=0;fillColor=default;gradientColor=#EA6B66;gradientDirection=east;strokeColor=none;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="40" y="223.93" width="490" height="172.07" as="geometry" />
         </mxCell>
-        <mxCell id="Y0CES-mEReYJAXcTUCbc-117" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Y0CES-mEReYJAXcTUCbc-117" value="AluSx4-Enh17 驱动 METTL2B 转录上调" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="268" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
