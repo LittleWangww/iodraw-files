@@ -240,7 +240,7 @@
           <mxGeometry x="185" y="500" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-106" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=default;gradientColor=#EA6B66;gradientDirection=east;strokeColor=default;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="207.25" width="100" height="70" as="geometry" />
+          <mxGeometry x="-190" y="207.25" width="250" height="192.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
