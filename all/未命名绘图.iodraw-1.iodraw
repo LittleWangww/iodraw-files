@@ -62,7 +62,7 @@
           <mxGeometry x="430" y="115.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v3" value="底物与修饰鉴定&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(LC-MS, 酶失活回补)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="690" y="247.5" width="115" height="50" as="geometry" />
+          <mxGeometry x="930" y="254.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v4" value="翻译效率与功能必要性&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(Ribo-seq, 同义替换实验)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="690" y="320" width="115" height="55" as="geometry" />
@@ -185,7 +185,7 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-57" value="失活突变体回补验证催化依赖性" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="603" y="186" width="206" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-62" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;METTL2B 催化特定 tRNA (Thr/Arg) 的 m³C 修饰&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="GakFOnl8tx8y4TvosUzH-62" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;tRNA m³C 修饰介导密码子依赖翻译调控&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
