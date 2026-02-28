@@ -212,6 +212,9 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-66" value="翻译变化验证（蛋白下降但mRNA不变）" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="373.25" width="206" height="24.5" as="geometry" />
         </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-71" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;tRNA m³C 修饰介导密码子依赖翻译调控&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="312" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
