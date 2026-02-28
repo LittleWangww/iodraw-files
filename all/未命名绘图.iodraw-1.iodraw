@@ -206,6 +206,9 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-86" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;DNA pull-down/CUT&amp;amp;Tag-qPCR/dual-LUC&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;验证上游TF&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="254.5" width="206" height="24.5" as="geometry" />
         </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-87" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;DNA pull-down/CUT&amp;amp;Tag-qPCR/dual-LUC&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;验证上游TF&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="264.5" width="206" height="24.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
