@@ -110,12 +110,6 @@
             <mxStyle name="strokeColor" value="#d6b656" />
           </mxStyle>
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-15" target="GakFOnl8tx8y4TvosUzH-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-15" target="GakFOnl8tx8y4TvosUzH-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-15" target="GakFOnl8tx8y4TvosUzH-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
