@@ -44,7 +44,7 @@
           <mxGeometry x="30" y="126.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n5" value="&lt;b&gt;METTL2B 蛋白高表达&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="140" height="45" as="geometry" />
+          <mxGeometry x="30" y="60" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="n6" value="&lt;b&gt;催化特定 tRNA(Thr/Arg) m&lt;sup&gt;3&lt;/sup&gt;C 修饰&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px; font-weight: normal;&quot;&gt;(依赖催化活性)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="450" y="160" width="220" height="55" as="geometry" />
@@ -75,16 +75,6 @@
         </mxCell>
         <mxCell id="v6" value="临床风险队列相关性分析&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(表达水平关联与高危预后支持)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="580" y="820" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="e5" edge="1" parent="1" source="n5" target="n6">
-          <mxGeometry relative="1" as="geometry" />
-          <mxStyle as="style">
-            <mxStyle name="endArrow" value="classic" />
-            <mxStyle name="html" value="1" />
-            <mxStyle name="rounded" value="0" />
-            <mxStyle name="strokeWidth" value="2" />
-            <mxStyle name="strokeColor" value="#444444" />
-          </mxStyle>
         </mxCell>
         <mxCell id="e6" edge="1" parent="1" source="n6" target="n7">
           <mxGeometry relative="1" as="geometry" />
