@@ -17,7 +17,7 @@
           <mxGeometry x="70" y="30" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-5" value="&lt;b style=&quot;font-size:14px;&quot;&gt;研究内容二：HR-NB中METTL2B 介导的&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size:14px;&quot;&gt;翻译&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;调控机制&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="30" width="300" height="30" as="geometry" />
+          <mxGeometry x="492" y="30" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0CES-mEReYJAXcTUCbc-10" target="Y0CES-mEReYJAXcTUCbc-50">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-16" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;METTL2B 催化特定 tRNA (Thr/Arg) 的 m³C 修饰&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="430" y="115.5" width="130" height="50" as="geometry" />
+          <mxGeometry x="452" y="115.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0CES-mEReYJAXcTUCbc-21" target="Y0CES-mEReYJAXcTUCbc-53">
           <mxGeometry relative="1" as="geometry" />
@@ -80,16 +80,16 @@
           <mxGeometry x="30" y="437.25" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-26" value="LC-MS/MS 检测 m³C 水平" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="75.5" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="75.5" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-27" value="特定 tRNA 亚型鉴定" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="114" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="114" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-28" value="METTL2B敲低/过表达后m³C变化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="153" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="153" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-29" value="失活突变体回补验证催化依赖性" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="191" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="191" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0CES-mEReYJAXcTUCbc-35" target="Y0CES-mEReYJAXcTUCbc-36">
           <mxGeometry relative="1" as="geometry" />
@@ -107,19 +107,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-35" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;tRNA m³C 修饰介导密码子依赖翻译调控&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="430" y="277" width="130" height="50" as="geometry" />
+          <mxGeometry x="452" y="277" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-36" value="Ribo-seq/RNA-seq计算TrE变化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="230" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="230" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-37" value="密码子富集分析" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="268" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="268" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-38" value="同义替换reporter验证" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="307" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="307" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-39" value="翻译变化验证（蛋白下降但mRNA不变）" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="346" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="346" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y0CES-mEReYJAXcTUCbc-44" target="Y0CES-mEReYJAXcTUCbc-45">
           <mxGeometry relative="1" as="geometry" />
@@ -134,19 +134,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-44" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;翻译层级变化对代谢重编程及恶性表型的作用&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="430" y="430" width="130" height="50" as="geometry" />
+          <mxGeometry x="452" y="430" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-45" value="糖脂代谢表型（乳酸/葡糖糖/脂质积累）" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="384" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="384" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-46" value="代谢酶回补rescue" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="423" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="423" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-47" value="裸鼠成瘤模型验证" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="461" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="461" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-48" value="临床蛋白及mRNA水平与风险分层关联" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="500" width="206" height="24.5" as="geometry" />
+          <mxGeometry x="625" y="500" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-49" value="&lt;span style=&quot;font-size: 10px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;H3K27ac/&lt;/span&gt;&lt;span style=&quot;font-size: 10px; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;H3K4me1/ATAC/甲基化检测&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="75.5" width="206" height="24.5" as="geometry" />
