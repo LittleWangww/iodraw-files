@@ -176,10 +176,10 @@
           <mxGeometry x="195" y="510" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-116" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.34;dx=34.8;notch=0;fillColor=default;gradientColor=#EA6B66;gradientDirection=east;strokeColor=none;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="40" y="223.93" width="490" height="186.07" as="geometry" />
+          <mxGeometry x="40" y="210" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-117" value="AluSx4-Enh17 驱动 METTL2B&amp;nbsp;&lt;div&gt;转录上调&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="414" y="302.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="413" y="302.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
