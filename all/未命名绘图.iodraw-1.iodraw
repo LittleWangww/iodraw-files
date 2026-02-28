@@ -230,6 +230,9 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-75" value="临床蛋白及mRNA水平与风险分层关联" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="603" y="500" width="206" height="24.5" as="geometry" />
         </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-80" value="LC-MS/MS 检测 m³C 水平" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="613" y="85.5" width="206" height="24.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
