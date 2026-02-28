@@ -131,6 +131,12 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-19" target="GakFOnl8tx8y4TvosUzH-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-19" target="GakFOnl8tx8y4TvosUzH-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-19" target="GakFOnl8tx8y4TvosUzH-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;序列基础与进化特征&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="30" y="437.25" width="130" height="50" as="geometry" />
         </mxCell>
