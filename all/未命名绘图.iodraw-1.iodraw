@@ -7,9 +7,6 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n0" target="bg1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="n0" target="bg2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n0" value="&lt;b style=&quot;font-size:16px;&quot;&gt;HR-NB 中存在选择性激活的转座元件增强子 AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;H3K27ac↑ / ATAC↑ / DNA低甲基化 / 与 METTL2B 表达显著正相关&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#f3eef8;strokeColor=none;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-80" width="800" height="60" as="geometry" />
         </mxCell>
