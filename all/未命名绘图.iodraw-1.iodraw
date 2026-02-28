@@ -49,13 +49,13 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-55">
+        <mxCell id="GakFOnl8tx8y4TvosUzH-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-57">
+        <mxCell id="GakFOnl8tx8y4TvosUzH-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;METTL2B 催化特定 tRNA (Thr/Arg) 的 m³C 修饰&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
