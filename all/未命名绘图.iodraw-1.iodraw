@@ -31,21 +31,6 @@
         <mxCell id="title3" value="&lt;b style=&quot;font-size:14px;&quot;&gt;机制影响与功能验证：代谢重塑与临床表型&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="620" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="87.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="144.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="203" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1" target="GakFOnl8tx8y4TvosUzH-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -62,6 +47,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n5" target="GakFOnl8tx8y4TvosUzH-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;METTL2B 催化特定 tRNA (Thr/Arg) 的 m³C 修饰&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
