@@ -239,7 +239,7 @@
         <mxCell id="GakFOnl8tx8y4TvosUzH-91" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; font-size: 10px;&quot;&gt;dual-LUC验证序列激活活性&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="500" width="206" height="24.5" as="geometry" />
         </mxCell>
-        <mxCell id="GakFOnl8tx8y4TvosUzH-106" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.38;dx=79.96;notch=0;fillColor=default;gradientColor=#EA6B66;gradientDirection=east;strokeColor=none;opacity=30;" vertex="1" parent="1">
+        <mxCell id="GakFOnl8tx8y4TvosUzH-106" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.41;dx=27.65;notch=0;fillColor=default;gradientColor=#EA6B66;gradientDirection=east;strokeColor=none;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="100" y="211.93" width="390" height="172.07" as="geometry" />
         </mxCell>
       </root>
