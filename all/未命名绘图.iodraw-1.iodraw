@@ -65,7 +65,7 @@
           <mxGeometry x="930" y="254.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v4" value="翻译效率与功能必要性&lt;br&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(Ribo-seq, 同义替换实验)&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="690" y="320" width="115" height="55" as="geometry" />
+          <mxGeometry x="970" y="302" width="115" height="55" as="geometry" />
         </mxCell>
         <mxCell id="n9" value="&lt;b&gt;靶向代谢酶蛋白翻译上调&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 11px; font-weight: normal;&quot;&gt;(代表性基因如 ENO3, FADS1, mRNA不变)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="300" y="660" width="240" height="50" as="geometry" />
@@ -187,6 +187,12 @@
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-62" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;tRNA m³C 修饰介导密码子依赖翻译调控&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="430" y="270" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-63" value="Ribo-seq/RNA-seq计算TrE变化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="254.5" width="206" height="24.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GakFOnl8tx8y4TvosUzH-64" value="Ribo-seq/RNA-seq计算TrE变化" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="264.5" width="206" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
