@@ -117,10 +117,10 @@
           </mxStyle>
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;H3K27ac/&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;H3K4me1/ATAC/甲基化检测&lt;/span&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="75.5" width="206" height="45" as="geometry" />
+          <mxGeometry x="190" y="75.5" width="206" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-11" value="&lt;font face=&quot;Times New Roman, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;在&lt;/span&gt;&lt;/font&gt;HR/LR单细胞转录差异" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="190" y="129" width="206" height="45" as="geometry" />
+          <mxGeometry x="190" y="129" width="206" height="31" as="geometry" />
         </mxCell>
         <mxCell id="GakFOnl8tx8y4TvosUzH-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GakFOnl8tx8y4TvosUzH-15" target="GakFOnl8tx8y4TvosUzH-36">
           <mxGeometry relative="1" as="geometry" />
