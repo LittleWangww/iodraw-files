@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8iB2S9SiqApg65EoZNpp">
-    <mxGraphModel dx="542" dy="1224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="1702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Y0CES-mEReYJAXcTUCbc-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9fdf5;strokeColor=#82b366;strokeWidth=2;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="535" y="30" width="400" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="Y0CES-mEReYJAXcTUCbc-62" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;研究内容一：AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;&amp;nbsp;在HR-NB中选择性激活机制&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="Y0CES-mEReYJAXcTUCbc-62" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;研究内容一：解析AluSx4-Enh&lt;sub&gt;17&lt;/sub&gt;&amp;nbsp;在HR-NB中选择性激活机制&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y0CES-mEReYJAXcTUCbc-63" value="&lt;b style=&quot;font-size:14px;&quot;&gt;研究内容二：HR-NB中METTL2B 介导的&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size:14px;&quot;&gt;翻译&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 14px;&quot;&gt;调控机制&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
