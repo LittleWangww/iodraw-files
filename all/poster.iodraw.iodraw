@@ -10,6 +10,9 @@
         <mxCell id="zwE8zpFRAFJC5vrmfMRK-1" value="6,617&lt;div style=&quot;font-size: 14px;&quot;&gt;全外显子样本&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zwE8zpFRAFJC5vrmfMRK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwE8zpFRAFJC5vrmfMRK-2" target="zwE8zpFRAFJC5vrmfMRK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zwE8zpFRAFJC5vrmfMRK-2" value="去除冗余&lt;br style=&quot;font-size: 14px;&quot;&gt;同义突变位点集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="383" width="120" height="60" as="geometry" />
         </mxCell>
