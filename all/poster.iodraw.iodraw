@@ -10,10 +10,10 @@
         <mxCell id="zwE8zpFRAFJC5vrmfMRK-2" value="去除冗余&lt;br&gt;同义突变位点集合" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwE8zpFRAFJC5vrmfMRK-3" value="257&lt;div&gt;影响可变剪切位点&lt;/div&gt;&lt;div&gt;(SpliceAI score &amp;gt;0.9)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zwE8zpFRAFJC5vrmfMRK-3" value="257&lt;div&gt;影响可变剪切位点&lt;/div&gt;&lt;div&gt;(SpliceAI score &amp;gt;0.9)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwE8zpFRAFJC5vrmfMRK-4" value="表型关联分析&lt;div&gt;PAFAH1B1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zwE8zpFRAFJC5vrmfMRK-4" value="表型关联分析&lt;div&gt;PAFAH1B1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
