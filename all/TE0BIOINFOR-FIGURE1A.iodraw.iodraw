@@ -10,6 +10,9 @@
         <mxCell id="6xmoivdndTKuQtLXFbkx-2" value="&lt;b&gt;NB Enhancer Atlas&lt;/b&gt;&lt;br&gt;&lt;div&gt;431,914 consensus enhancers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="310" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6xmoivdndTKuQtLXFbkx-3" value="&lt;b&gt;Tier Classification&lt;/b&gt;&lt;br&gt;&lt;div&gt;Shared (3-9 samples): 24564 (21.0%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="230" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
