@@ -7,6 +7,9 @@
         <mxCell id="6xmoivdndTKuQtLXFbkx-1" value="&lt;b&gt;76 H3K27ac ChIP-seq&lt;/b&gt;&lt;div&gt;51 tumors (GSE136209)&lt;/div&gt;&lt;div&gt;25 cell lines (GSE80154)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="150" width="150" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6xmoivdndTKuQtLXFbkx-2" value="&lt;b&gt;76 H3K27ac ChIP-seq&lt;/b&gt;&lt;div&gt;51 tumors (GSE136209)&lt;/div&gt;&lt;div&gt;25 cell lines (GSE80154)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="150" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
