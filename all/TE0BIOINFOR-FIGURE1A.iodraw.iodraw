@@ -25,8 +25,8 @@
         <mxCell id="6xmoivdndTKuQtLXFbkx-6" value="&lt;b&gt;TE Enhancer Catalog&lt;/b&gt;&lt;br&gt;&lt;div&gt;117,184 TE-enhancers (27.1%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="470" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6xmoivdndTKuQtLXFbkx-8" value="&lt;b&gt;Tier Classification&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Core (&amp;gt;= 10 samples): 6381 (5.4%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Shared (3-9 samples): 24564 (21.0%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;WeakShared (2 samples): 19324 (16.5%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Private (1 sample): 66915 (57.1%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="230" height="80" as="geometry" />
+        <mxCell id="6xmoivdndTKuQtLXFbkx-8" value="&lt;b&gt;BY TE Class&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;LTR: 36023 (30.7%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;LINE: 45310 (38.7%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;SINE: 23292 (19.9%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;DNA: 12109 (10.3%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="230" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
