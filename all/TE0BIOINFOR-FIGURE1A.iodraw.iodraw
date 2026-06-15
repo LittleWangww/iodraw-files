@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6xmoivdndTKuQtLXFbkx-2" value="&lt;b&gt;NB Enhancer Atlas&lt;/b&gt;&lt;br&gt;&lt;div&gt;431,914 consensus enhancers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="310" width="150" height="80" as="geometry" />
+          <mxGeometry x="80" y="320" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6xmoivdndTKuQtLXFbkx-3" value="&lt;b&gt;Tier Classification&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Core (&amp;gt;= 10 samples): 6,381 (5.4%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Shared (3-9 samples): 24,564 (21.0%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;WeakShared (2 samples): 19,324 (16.5%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Private (1 sample): 66,915 (57.1%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="280" height="80" as="geometry" />
