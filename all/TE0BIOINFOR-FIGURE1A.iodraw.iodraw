@@ -22,6 +22,9 @@
         <mxCell id="6xmoivdndTKuQtLXFbkx-3" value="&lt;b&gt;Tier Classification&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Core (&amp;gt;= 10 samples): 6,381 (5.4%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Shared (3-9 samples): 24,564 (21.0%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;WeakShared (2 samples): 19,324 (16.5%)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Private (1 sample): 66,915 (57.1%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="310" width="270" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="6xmoivdndTKuQtLXFbkx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6xmoivdndTKuQtLXFbkx-6" target="6xmoivdndTKuQtLXFbkx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6xmoivdndTKuQtLXFbkx-6" value="&lt;b&gt;TE Enhancer Catalog&lt;/b&gt;&lt;br&gt;&lt;div&gt;117,184 TE-enhancers (27.1%)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="470" width="150" height="80" as="geometry" />
         </mxCell>
